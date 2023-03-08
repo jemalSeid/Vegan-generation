@@ -167,13 +167,13 @@ footer a {
   }
 
   nav {
-    display: flex;
+  
     flex-direction: column;
     height: 200px;
   }
 
   nav ul {
-    display: flex;
+    
     flex-direction: column;
   }
 }
