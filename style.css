@@ -167,19 +167,18 @@ footer a {
   }
 
   nav {
-  
     flex-direction: column;
     height: 200px;
-     background-color: blue;
+     background-color: black;
   }
 
   nav ul {
     
     flex-direction: column;
-    justify-content: space-around;
+    
   }
   footer {
     flex-direction: column;
-    justify-content: space-around;
+    
   }
 }
