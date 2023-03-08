@@ -170,7 +170,7 @@ footer a {
   
     flex-direction: column;
     height: 200px;
-     background-color: pink;
+     background-color: blue;
   }
 
   nav ul {
@@ -181,4 +181,5 @@ footer a {
   footer {
     flex-direction: column;
     justify-content: space-around;
+  }
 }
